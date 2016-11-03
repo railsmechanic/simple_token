@@ -1,5 +1,5 @@
 # SimpleToken
-SimpleToken generates random, non-cryptographic alphanumeric string tokens.
+SimpleToken generates random alphanumeric, non-cryptographic string tokens.
 
 ## Installation
 1. Add `simple_token` to your list of dependencies in `mix.exs`:

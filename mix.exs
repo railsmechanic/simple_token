@@ -18,7 +18,7 @@ defmodule SimpleToken.Mixfile do
 
   defp description do
     """
-    SimpleToken generates random, non-cryptographic alphanumeric string tokens.
+    SimpleToken generates random alphanumeric, non-cryptographic string tokens.
     """
   end
 
